@@ -16,11 +16,11 @@
    - Design and implement an automatic control system to differentiate several types of wood which will be used as furniture/furniture.
    - Analyzing, designing control logic, and managing Kasian classifier software
      
-#### 2. [Mechatronics Course Project: Making a prototype of an industrial robot arm](https://portal.pln.co.id) | Project Creator | oktber 2022- januari 2013
+#### 2. [Mechatronics Course Project: Making a prototype of an industrial robot arm](https://portal.pln.co.id) | Project Creator | oktber 2022- januari 2023
    - Implementing the design of a robot arm for moving goods in the industrial sector in the form ofprototypes in groups
    - Make buttons and analogues easy to use.
      
-#### 2. [Create a growth monitoring prototype software tool plant](https://portal.pln.co.id) | Project Creator | oktber 2022- januari 2013
+#### 2. [Create a growth monitoring prototype software tool plant](https://portal.pln.co.id) | Project Creator | febrari 2022- april 2022
    - Design and implement a prototype for monitoring the growth of green bean seeds in groups.
    - Make the software display easy to use
 
