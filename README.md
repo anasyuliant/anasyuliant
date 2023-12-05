@@ -1,4 +1,4 @@
-# Hi there, I'm Anas - aka [anasyulian] 👋
+# Hi there, I'm Anas - aka [anasyuliant] 👋
 ## About me:
 - 🌱 I’m currently learning Python and C++
 - 👯 I’m looking to collaborate as Data Automation and Analyst
